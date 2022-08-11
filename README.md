@@ -11,3 +11,7 @@ In addition we are also required to provide tests to show our solutions are work
     - NodeJS
     - Jest for testing
 
+## Quick Setup 
+
+    - To install dependencies type `npm i` after cloning down repo
+    - To run the test type `npm run test`
