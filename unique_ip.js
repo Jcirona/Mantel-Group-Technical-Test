@@ -1,3 +1,4 @@
+// Find the number of unique IP addresses
 fs = require('fs')
 
 function uniqueIP() {

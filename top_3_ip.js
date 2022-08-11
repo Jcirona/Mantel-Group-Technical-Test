@@ -1,3 +1,4 @@
+// return the top 3 most active IP addresses
 fs = require('fs')
 
 function topThreeIP() {
